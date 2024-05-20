@@ -1,11 +1,12 @@
-import Customer from "./Customer";
+import Item from "./Item";
 
 function App() {
   return (
-    <>
-      <h1>Hello VITE App!</h1>
-      <Customer />
-    </>
+    <div>
+      <h1>Helloooooo!</h1>
+      <h2>Hiiii</h2>
+      <Item />
+    </div>
   );
 }
 
